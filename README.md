@@ -19,7 +19,7 @@
 - 벌금
   - 한 문제라도 미제출 시 벌금 2000원
   - 못 푸는 것이 아닌 안 푸는 것에 대한 벌금입니다.
-  - 카카오뱅크 모임통장으로 투명하게 운영하겠습니다.
+  - 토스 모임통장으로 투명하게 운영하겠습니다.
   - Pass권 한 달에 2번 사용 가능합니다.
   - 벌금은 매달 말일에 정확하게 N분의 1로 보내드리겠습니다.
   - 말일 전, 중도 하차는 보내드릴 수 없습니다.
@@ -29,11 +29,11 @@
 <details>
 <summary>프로그래머스 문제</summary>
   
-## 12.
+## 12.28
 - [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
 - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
 
-## 12.
+## 12.29
 - [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
 - [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
 </details>
