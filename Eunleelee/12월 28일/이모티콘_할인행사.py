@@ -1,8 +1,6 @@
 from itertools import product
 
-# 할인율은 10, 20, 30, 40 중 하나
 # 최우선 순위는 이모티콘 플러스에 가입시키는 것
-
 
 def solution(users, emoticons):
   result = []
@@ -37,6 +35,5 @@ def solution(users, emoticons):
   answer = sorted(result, reverse=True, key=lambda x: (x[0], x[1]))
 
   return answer[0]
-
 
 solution([[40, 2900], [23, 10000], [11, 5200], [5, 5900], [40, 3100], [27, 9200], [32, 6900]], [1300, 1500, 1600, 4900])
