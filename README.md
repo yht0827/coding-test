@@ -39,4 +39,12 @@
 ## 12.29
 - [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
 - [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
+
+## 12.30
+- [구멍 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+- [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+
+## 12.31
+- [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
+- [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 </details>
