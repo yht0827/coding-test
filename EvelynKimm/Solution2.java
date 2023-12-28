@@ -48,6 +48,4 @@ class Solution2 {
             TOTAL_REVENUE = Math.max(emoticonRevenue, TOTAL_REVENUE);
         }
     }
-
-
 }
