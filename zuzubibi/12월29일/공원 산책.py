@@ -1,5 +1,6 @@
 # 문제 푼 날: 23-12-29
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/172928
+# 체감 난이도: ⭐️⭐️⭐️⭐️ (복습 필요)
 # -------------------------------------------------------------------------
 def find_start(park):
     for i in range(len(park)):
