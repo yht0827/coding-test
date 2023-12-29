@@ -3,18 +3,15 @@
 ## 규칙
 
 - 각자 문제 풀고 자기 이름의 폴더에 풀이 올리기
-
-- 문제풀이여부 - 해당 과제 문제 에 본인 이미지로 푼것 체크하기!
-
 - 과제 commit시 commit msg로 꼭 작성날짜 입력해주기
 
   - ex) '2023-12-26 숫자 변환하기'
 
 - 문제출제순서(2일단위 카톡 알림)
+  - 제출 순서: `yht0827 -> Evelyn -> Jimin -> Eunleelee -> HongSP99 -> LEE SUBEEN`
   
 - 문제 출제 / 제출 기한
   - 문제 제출(README.md에 낼것)
-  - 제출 순서: `yht0827 -> Evelyn -> Jimin -> Eunleelee -> HongSP99 -> LEE SUBEEN`
   - 프로그래머스 Lv 1~2
   - 제출기한 : 자정
 - 벌금
