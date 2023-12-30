@@ -33,6 +33,7 @@ def mysolution(users, emoticons):
 # 할인율(rate)에 대해서 product(중복 순열)을 만들어주고
 # 각 할인율 배열에 대해서 계산한 후
 # 플러스 갯수, 가격에 대해서 정렬하고 리턴하면 됩니다.
+
 from itertools import product
 
 def solution(users, emoticons):
@@ -64,7 +65,7 @@ def solution(users, emoticons):
     # 조합별 가장 가입자 수 > 판매액 순으로 큰 경우를 찾아 리턴
     result.sort(reverse=True, key= lambda x: (x[0], x[1]))
     # print(result[0])
-    return list(result[0])
+    return result[0]
         
     
 # print(solution([[40, 10000], [25, 10000]], [7000, 9000]))  # [1, 5400]
