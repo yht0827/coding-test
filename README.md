@@ -30,7 +30,7 @@
 <summary>프로그래머스 문제</summary>
   
 ## 12.28
-- [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
+- [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) <img src="./img/yht0827.png" height = "30" width="30">
 - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
 
 ## 12.29
