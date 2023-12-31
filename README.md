@@ -53,4 +53,12 @@
 - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
 - [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
 
+## 1.3
+- [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
+- [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
+
+## 1.4
+- [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
+- [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+
 </details>
