@@ -30,18 +30,26 @@
 <summary>프로그래머스 문제</summary>
   
 ## 12.28
-- [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
-- [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+- [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30">
+- [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 12.29
-- [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
-- [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
+- [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30">
+- [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 12.30
-- [구멍 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
-- [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+- [구멍 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30">
+- [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 12.31
-- [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
-- [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+- [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) <img src="./img/g2Min.png" height = "30" width="30">
+- [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) <img src="./img/g2Min.png" height = "30" width="30">
+
+## 1.1
+- [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
+- [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+
+## 1.2
+- [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
+- [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
 </details>
