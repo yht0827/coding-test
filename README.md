@@ -42,8 +42,8 @@
 - [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 12.31
-- [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
-- [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30">
+- [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30">
 
 ## 1.1
 - [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
