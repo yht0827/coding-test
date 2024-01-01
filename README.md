@@ -46,8 +46,8 @@
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.1
-- [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
-- [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+- [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) <img src="./img/Eunleelee.png" height = "30" width="30">
+- [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) <img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 1.2
 - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
