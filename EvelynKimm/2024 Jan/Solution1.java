@@ -1,4 +1,4 @@
-class Solution9 {
+class Solution1 {
     public String solution(String s, String skip, int index) {
         String answer = "";
 

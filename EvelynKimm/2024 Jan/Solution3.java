@@ -1,4 +1,4 @@
-class Solution11 {
+class Solution3 {
     public String solution(String new_id) {
         String answer;
 

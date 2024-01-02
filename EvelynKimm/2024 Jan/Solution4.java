@@ -1,4 +1,4 @@
-class Solution12 {
+class Solution4 {
     public String solution(int[] numbers, String hand) {
         String answer = "";
         int left = 10;
