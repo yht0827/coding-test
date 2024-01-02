@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class Solution10 {
+public class Solution2 {
     static char[][] map;
     static boolean[][] visited;
     static int[] dx = {-1, 1, 0, 0};
