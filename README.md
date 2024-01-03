@@ -64,4 +64,11 @@
 - [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
+## 1.5
+- [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)
+- [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
+
+## 1.6
+- [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+- [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
 </details>
