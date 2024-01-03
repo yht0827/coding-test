@@ -56,8 +56,8 @@
 
 
 ## 1.3
-- [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) <img src="./img/Eunleelee.png" height = "30" width="30">
-- [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) <img src="./img/Eunleelee.png" height = "30" width="30">
+- [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30">
 
 ## 1.4
 - [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
