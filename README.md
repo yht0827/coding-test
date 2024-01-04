@@ -56,11 +56,19 @@
 
 
 ## 1.3
-- [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
-- [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
+
+- [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30">
+- [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.4
-- [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
-- [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+- [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)<img src="./img/zuzubibi.png" height = "30" width="30"> 
+- [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)<img src="./img/zuzubibi.png" height = "30" width="30"> 
 
+## 1.5
+- [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)
+- [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
+
+## 1.6
+- [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+- [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
 </details>
