@@ -71,7 +71,6 @@
 ## 1.6
 - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
 - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
-</details>
 
 ## 1.7
 - [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
@@ -80,3 +79,4 @@
 ## 1.8
 - [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
 - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+</details>
