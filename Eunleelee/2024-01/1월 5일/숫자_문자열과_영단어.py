@@ -3,7 +3,7 @@ def solution(s):
     # 숫자 영어를 배열로 저장
     number_en = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
     number = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
-    u = ''
+    u = ''  # 문자열을 저장하는 변수
     
     for i in s:
         u += i  # 문자열 s에서 한글자씩 문자열 u에 추가 
