@@ -1,3 +1,5 @@
+# 한번더 풀어보아야 함
+
 def convertToSecond(h,m,s):
     return 3600*h + m*60 + s
 
