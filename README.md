@@ -65,8 +65,8 @@
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)<img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30">
 
 ## 1.5
-- [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) <img src="./img/EvelynKimm.png" height = "30" width="30">
-- [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30">
+- [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 1.6
 - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
