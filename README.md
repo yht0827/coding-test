@@ -71,7 +71,7 @@
 
 ## 1.6
 - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) <img src="./img/Eunleelee.png" height = "30" width="30">
-- [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+- [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) <img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 1.7
 - [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
