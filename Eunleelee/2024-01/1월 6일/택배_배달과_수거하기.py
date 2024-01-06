@@ -1,7 +1,10 @@
 def solution(cap, n, deliveries, pickups):
-    while deliveries and not deliveries[-1]:
+    # 끝에 집부터 배달해야 할 것이 없으면 삭제해준다. 배달할 것이 아예 없을 경우도 고려
+    while deliveries and deliveries[-1] == 0:
         deliveries.pop()
-    while pickups and not pickups[-1]:
+    
+    # 끝에 집부터 수거해야 할 것이 없으면 삭제해준다. 수거할 것이 아예 없을 경우도 고려
+    while pickups and pickups[-1] == 0:
         pickups.pop()
 
     answer = 0
@@ -23,5 +26,3 @@ def solution(cap, n, deliveries, pickups):
                 break
 
     return answer
-
-print(solution(4, 5,	[1, 0, 3, 1, 2],	[0, 3, 0, 4, 0]))
