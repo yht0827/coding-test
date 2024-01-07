@@ -74,8 +74,8 @@
 - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) <img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.7
-- [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30">
-- [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
+- [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.8
 - [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) <img src="./img/yht0827.png" height = "30" width="30">
