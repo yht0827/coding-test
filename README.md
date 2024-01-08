@@ -89,4 +89,12 @@
 - [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
 - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
 
+## 1.11
+- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
+- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+
+## 1.12
+- [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+- [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
+
 </details>
