@@ -78,8 +78,8 @@
 - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 1.8
-- [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30">
-- [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30">
+- [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 1.9
 - [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
