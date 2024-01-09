@@ -82,8 +82,8 @@
 - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.9
-- [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
-- [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
+- [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 1.10
 - [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
