@@ -86,8 +86,8 @@
 - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/g2Min.png" height = "30" width="30"> 
 
 ## 1.10
-- [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) <img src="./img/EvelynKimm.png" height = "30" width="30">
-- [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 1.11
 - [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
