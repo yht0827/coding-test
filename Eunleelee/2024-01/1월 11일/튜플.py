@@ -8,7 +8,7 @@ def solution(s):
     s.sort(key=len)  # 길이 순으로 정렬
 
     for i in s:
-        if not answer:
+        if not answer: # 길이가 1일때 
             answer.append(int(i))
         else:
             # 현재 있는 숫자와 주워진 숫자를 비교해서 추가된 숫자를 answer에 추가
