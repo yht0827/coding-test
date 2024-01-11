@@ -5,7 +5,7 @@ def solution(s):
     s = s.replace("{", "")
     s = s.replace(",", " ")
     s = s.split('} ')
-    s.sort(key=len)
+    s.sort(key=len)  # 길이 순으로 정렬
 
     for i in s:
         if not answer:
