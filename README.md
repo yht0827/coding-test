@@ -91,8 +91,8 @@
 - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 1.11
-- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
-- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 1.12
 - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) <img src="./img/yht0827.png" height = "30" width="30">
