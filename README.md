@@ -23,8 +23,9 @@
   - 말일 전, 중도 하차는 보내드릴 수 없습니다.
 
 ### 패스권 사용
-- HongSP99(01.04)
+- HongSP99(01.04, 01.10)
 - yht0827(01.05)
+- Eunleelee(01.10)
 
 ## 문제
 <details>
@@ -82,19 +83,19 @@
 - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.9
-- [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
-- [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
+- [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.10
-- [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
-- [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
+- [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 1.11
-- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
-- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) <img src="./img/yht0827.png" height = "30" width="30">
+- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 1.12
-- [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
-- [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
+- [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) <img src="./img/yht0827.png" height = "30" width="30">
+- [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) <img src="./img/yht0827.png" height = "30" width="30">
 
 </details>
