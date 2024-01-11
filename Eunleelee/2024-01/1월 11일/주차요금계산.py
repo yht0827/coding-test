@@ -36,6 +36,7 @@ def solution(fees, records):
         if exit[1] <= fees[0]:
             answer.append(fees[1])
         else:
+            # 시간 * fees[2]가 나누어 떨어지지 않으면 올림해줌
             answer.append(math.ceil((exit[1] - fees[0]) / fees[2]) * fees[3] + fees[1]) 
         
     return answer
