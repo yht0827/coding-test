@@ -100,7 +100,7 @@
 
 ## 1.13
 - [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
-- [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672)
+- [미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
 
 ## 1.14
 - [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
