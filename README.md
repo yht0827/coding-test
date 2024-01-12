@@ -91,11 +91,19 @@
 - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 1.11
-- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) <img src="./img/yht0827.png" height = "30" width="30">
-- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) <img src="./img/yht0827.png" height = "30" width="30">
+- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
+- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.12
 - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) <img src="./img/yht0827.png" height = "30" width="30">
 - [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) <img src="./img/yht0827.png" height = "30" width="30">
+
+## 1.13
+- [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
+- [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672)
+
+## 1.14
+- [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
+- [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
 
 </details>

@@ -1,32 +1,42 @@
-def solution(new_id):
-    for _ in range(2):
-        # 1단계
-        new_id = new_id.lower()
-        # 2단계
-        new_id = ''.join([ i for i in new_id if i.isalnum() or i =="-" or i == '_' or i == '.'])
-        # 3단계
-        new_id = new_id.replace("....", ".")
-        new_id = new_id.replace("...", ".")
-        new_id = new_id.replace("..", ".")
-        # 4단계
-        if len(new_id) >= 2 and new_id[0] == '.' :
-            new_id = new_id[1:]
-        elif len(new_id) >= 2 and new_id[-1] == '.':
-            new_id = new_id[:-1]
-        elif len(new_id) <= 1 and new_id[-1] == '.':
-            new_id = ''
 
-        # 5단계
-        if len(new_id) == 0:
-            new_id += 'a'
-        # 6단계
-        if len(new_id)>=16:
-            new_id = new_id[:15]
-        # 7단계
-        if len(new_id)<=2:
-            while True:
-                if len(new_id) == 3:
-                    break
-                new_id += new_id[-1]
+from math import ceil
+
+def to_minutes(time):
+    h, m = map(int, time.split(':'))
+    return h*60 + m
     
-    return new_id
+
+def otherSolution(fees, records):
+    recs = {}
+    fee = {}
+    
+    for record in records:
+        time, num, io = record.split()
+        
+        if num in recs:
+            recs[num].append([time, io])
+        else:
+            recs[num] = [[time, io]]
+            
+    for rec in recs:
+        total = 0
+        payment = fees[1]
+        
+        if len(recs[rec]) % 2 != 0:
+            recs[rec].append(["23:59", "OUT"])
+        
+        for r in recs[rec]:
+            if r[1] == "IN":
+                total -= to_minutes(r[0])
+            else:
+                total += to_minutes(r[0])
+                
+        if total > fees[0]:
+            payment += ceil((total - fees[0]) / fees[2]) * fees[3]
+            
+        
+        fee[rec] = payment
+        
+    fee = sorted(fee.items())
+    
+    return [f for n, f in fee]
