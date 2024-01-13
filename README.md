@@ -26,6 +26,7 @@
 - HongSP99(01.04, 01.10)
 - yht0827(01.05)
 - Eunleelee(01.10)
+- g2Min(01.13)
 
 ## 문제
 <details>
