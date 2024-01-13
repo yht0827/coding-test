@@ -99,11 +99,11 @@
 - [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.13
-- [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
-- [미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 1.14
-- [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
-- [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+- [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) <img src="./img/yht0827.png" height = "30" width="30">
+- [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) <img src="./img/yht0827.png" height = "30" width="30">
 
 </details>
