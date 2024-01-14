@@ -107,4 +107,11 @@
 - [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
 - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
 
+## 1.15
+- [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) 
+- [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) 
+
+## 1.16
+- [붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) 
+- [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) 
 </details>
