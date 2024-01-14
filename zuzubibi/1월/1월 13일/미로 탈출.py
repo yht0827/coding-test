@@ -41,8 +41,7 @@ def bfs(start, end, maps):
                     visited[ny][nx] = True
     return -1 #탈출 할 수 없다면 
     
-            
-    return
+
 def solution(maps):
     path1 = bfs('S', 'L', maps) # 시작 지점 -> 레버
     path2 = bfs('L', 'E', maps) # 시작 지점 -> 출구
