@@ -108,8 +108,8 @@
 - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 1.15
-- [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 1.16
 - [붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) 
