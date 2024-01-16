@@ -122,4 +122,12 @@
 ## 1.18
 - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
 - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
+
+## 1.19
+- [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
+- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
+
+## 1.20
+- [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
+- [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 </details>
