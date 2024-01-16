@@ -117,7 +117,7 @@
 
 ## 1.17
 - [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
-- [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
+- [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
 
 ## 1.18
 - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
