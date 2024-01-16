@@ -114,4 +114,12 @@
 ## 1.16
 - [붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) <img src="./img/HongSp99.png" height = "30" width="30">
 - [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) <img src="./img/HongSp99.png" height = "30" width="30">
+
+## 1.17
+- [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
+- [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
+
+## 1.18
+- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+- [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
 </details>
