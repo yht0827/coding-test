@@ -116,8 +116,8 @@
 - [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) <img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 1.17
-- [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)<img src="./img/zuzubibi.png" height = "30" width="30">
-- [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<img src="./img/zuzubibi.png" height = "30" width="30">
+- [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)<img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 1.18
 - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
