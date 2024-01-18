@@ -121,8 +121,8 @@
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.18
-- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
+- [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.19
 - [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
