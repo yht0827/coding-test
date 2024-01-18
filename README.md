@@ -130,4 +130,13 @@
 ## 1.20
 - [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
 - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+
+## 1.21
+- [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
+- [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)
+
+## 1.22
+- [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
+- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+
 </details>
