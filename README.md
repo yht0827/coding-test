@@ -125,8 +125,8 @@
 - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 1.19
-- [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
-- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
+- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.20
 - [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) <img src="./img/EvelynKimm.png" height = "30" width="30">
