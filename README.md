@@ -27,6 +27,7 @@
 - yht0827(01.05)
 - Eunleelee(01.10)
 - g2Min(01.13)
+- EvelynKimm(01.18)
 
 ## 문제
 <details>
@@ -120,14 +121,32 @@
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.18
-- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)<img src="./img/HongSp99.png" height = "30" width="30">
-- [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)<img src="./img/HongSp99.png" height = "30" width="30">
+- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 1.19
-- [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
-- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
+- [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) <img src="./img/EvelynKimm.png" height = "30" width="30">
 
 ## 1.20
-- [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
-- [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+- [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) <img src="./img/EvelynKimm.png" height = "30" width="30">
+
+## 1.21
+- [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
+- [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)
+
+## 1.22
+- [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
+- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+
+## 1.23
+- [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
+- [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+
+## 1.24
+- [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
+- [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
+
+  
 </details>
