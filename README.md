@@ -140,4 +140,13 @@
 - [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
 - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 
+## 1.23
+- [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
+- [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+
+## 1.24
+- [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
+- [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
+
+  
 </details>
