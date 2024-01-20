@@ -7,6 +7,8 @@ def solution(k, tangerine):
         else:
             a[i] = 1
     a = dict(sorted(a.items(), key=lambda x: x[1], reverse=True))
+    
+    print(a)
     for i in a:
         if k <=0:
             return answer
