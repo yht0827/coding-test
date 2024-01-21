@@ -24,10 +24,11 @@
 
 ### 패스권 사용
 - HongSP99(01.04, 01.10)
-- yht0827(01.05)
-- Eunleelee(01.10)
+- yht0827(01.05, 01.19)
+- Eunleelee(01.10, 01.20)
 - g2Min(01.13)
 - EvelynKimm(01.18)
+- zuzubibi(01.20)
 
 ## 문제
 <details>
@@ -125,12 +126,12 @@
 - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 1.19
-- [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) <img src="./img/EvelynKimm.png" height = "30" width="30">
-- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 1.20
-- [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) <img src="./img/EvelynKimm.png" height = "30" width="30">
-- [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
+- [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.21
 - [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
