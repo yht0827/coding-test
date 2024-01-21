@@ -134,8 +134,8 @@
 - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.21
-- [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) <img src="./img/Eunleelee.png" height = "30" width="30"> 
-- [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) <img src="./img/Eunleelee.png" height = "30" width="30"> 
+- [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30">
+- [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.22
 - [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
