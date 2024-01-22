@@ -149,5 +149,11 @@
 - [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 - [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
 
-  
+## 1.25
+- [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)
+- [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)
+
+## 1.26
+- [광물캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
+- [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
 </details>
