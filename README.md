@@ -138,8 +138,8 @@
 - [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.22
-- [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
-- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+- [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)<img src="./img/Eunleelee.png" height = "30" width="30">
+- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 1.23
 - [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
