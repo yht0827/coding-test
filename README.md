@@ -142,8 +142,8 @@
 - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.23
-- [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
-- [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+- [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) <img src="./img/Eunleelee.png" height = "30" width="30">
+- [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) <img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 1.24
 - [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
