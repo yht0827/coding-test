@@ -138,8 +138,8 @@
 - [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.22
-- [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
-- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+- [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)<img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30">
+- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.23
 - [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
@@ -149,5 +149,11 @@
 - [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 - [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
 
-  
+## 1.25
+- [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)
+- [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)
+
+## 1.26
+- [광물캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
+- [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
 </details>
