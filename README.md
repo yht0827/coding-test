@@ -147,8 +147,8 @@
 - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
 
 ## 1.24
-- [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
-- [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
+- [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
+- [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
 
 ## 1.25
 - [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)
