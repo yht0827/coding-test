@@ -29,6 +29,7 @@
 - g2Min(01.13)
 - EvelynKimm(01.18)
 - zuzubibi(01.20)
+- g2Min(01.24)
 
 ## 문제
 <details>
