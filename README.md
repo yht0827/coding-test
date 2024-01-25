@@ -27,7 +27,7 @@
 - yht0827(01.05, 01.19)
 - Eunleelee(01.10, 01.20)
 - g2Min(01.13)
-- EvelynKimm(01.18)
+- EvelynKimm(01.18, 01.25)
 - zuzubibi(01.20)
 - g2Min(01.24)
 
