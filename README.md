@@ -157,4 +157,12 @@
 ## 1.26
 - [광물캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
 - [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
+
+## 1.27
+- [데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121)
+- [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
+
+## 1.28
+- [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
+- [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
 </details>
