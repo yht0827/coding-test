@@ -27,7 +27,7 @@
 - yht0827(01.05, 01.19)
 - Eunleelee(01.10, 01.20)
 - g2Min(01.13)
-- EvelynKimm(01.18)
+- EvelynKimm(01.18, 01.25)
 - zuzubibi(01.20)
 - g2Min(01.24)
 
@@ -147,12 +147,12 @@
 - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
 
 ## 1.24
-- [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) <img src="./img/EvelynKimm.png" height = "30" width="30">
-- [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
+- [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
 
 ## 1.25
-- [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)
-- [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)
+- [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)<img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
+- [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)<img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
 
 ## 1.26
 - [광물캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
