@@ -8,6 +8,7 @@ def solution(rows, columns, queries):
         for x in range(columns):
             b.append((y*columns) + (x+1))
         board.append(b)
+
     # 회전
     for y1, x1, y2, x2 in queries:
         y1, x1, y2, x2 = y1-1, x1-1, y2-1, x2-1
@@ -34,8 +35,6 @@ def solution(rows, columns, queries):
         for x in range(x2, x1, -1):
             board[y1][x] = tmp.popleft()
     return answer
-
-    return 
 
 
 
