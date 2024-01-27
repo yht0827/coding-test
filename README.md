@@ -154,12 +154,12 @@
 - [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)<img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 1.26
-- [광물캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)<img src="./img/HongSp99.png" height = "30" width="30">
-- [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)<img src="./img/HongSp99.png" height = "30" width="30">
+- [광물캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 1.27
-- [데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121)
-- [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
+- [데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121)<img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)<img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 1.28
 - [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
