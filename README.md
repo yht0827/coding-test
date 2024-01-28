@@ -162,6 +162,14 @@
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)<img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 1.28
-- [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
-- [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
+- [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)<img src="./img/HongSp99.png" height = "30" width="30">
+- [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)<img src="./img/HongSp99.png" height = "30" width="30">
+
+## 1.29
+- [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
+- [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
+
+## 1.30
+- [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+- [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
 </details>
