@@ -172,4 +172,12 @@
 ## 1.30
 - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
 - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
+
+## 1.31
+- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+
+## 2.1
+- [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
+- [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
 </details>
