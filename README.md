@@ -166,8 +166,8 @@
 - [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.29
-- [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
-- [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
+- [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
+- [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.30
 - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
