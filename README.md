@@ -28,7 +28,7 @@
 - Eunleelee(01.10, 01.20)
 - g2Min(01.13, 01.24)
 - EvelynKimm(01.18, 01.25)
-- zuzubibi(01.20)
+- zuzubibi(01.20, 01.29)
 
 ## 문제
 <details>
