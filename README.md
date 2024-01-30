@@ -170,8 +170,8 @@
 - [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30">
 
 ## 1.30
-- [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
-- [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
+- [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.31
 - [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
