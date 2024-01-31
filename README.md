@@ -28,7 +28,7 @@
 - Eunleelee(01.10, 01.20)
 - g2Min(01.13, 01.24)
 - EvelynKimm(01.18, 01.25)
-- zuzubibi(01.20)
+- zuzubibi(01.20, 01.29)
 
 ## 문제
 <details>
@@ -166,16 +166,16 @@
 - [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)<img src="./img/HongSp99.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30">
 
 ## 1.29
-- [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) <img src="./img/yht0827.png" height = "30" width="30">
-- [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) <img src="./img/yht0827.png" height = "30" width="30">
+- [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30">
 
 ## 1.30
-- [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
-- [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
+- [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
+- [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.31
-- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
-- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)  <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)  <img src="./img/EvelynKimm.png" height = "30" width="30">
 
 
 </details>
