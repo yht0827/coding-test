@@ -174,8 +174,8 @@
 - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.31
-- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
-- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)  <img src="./img/EvelynKimm.png" height = "30" width="30">
+- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)  <img src="./img/EvelynKimm.png" height = "30" width="30">
 
 
 </details>
