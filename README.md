@@ -8,7 +8,7 @@
   - ex) '2023-12-26 숫자 변환하기'
 
 - 문제출제순서(2일단위 카톡 알림)
-  - 제출 순서: `yht0827 -> Evelyn -> Jimin -> Eunleelee -> HongSP99 -> LEE SUBEEN`
+  - 제출 순서: `yht0827 -> Eunleelee -> zuzubibi -> jja6312 -> itsmesunky`
   
 - 문제 출제 / 제출 기한
   - 문제 제출(README.md에 낼것)
@@ -23,16 +23,10 @@
   - 말일 전, 중도 하차는 보내드릴 수 없습니다.
 
 ### 패스권 사용
-- HongSP99(01.04, 01.10)
-- yht0827(01.05, 01.19)
-- Eunleelee(01.10, 01.20)
-- g2Min(01.13, 01.24)
-- EvelynKimm(01.18, 01.25)
-- zuzubibi(01.20, 01.29)
 
 ## 문제
 <details>
-<summary>프로그래머스 문제</summary>
+<summary>1월</summary>
   
 ## 12.28
 - [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30">
@@ -174,8 +168,18 @@
 - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/HongSp99.png" height = "30" width="30">
 
 ## 1.31
-- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)  <img src="./img/EvelynKimm.png" height = "30" width="30">
-- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)  <img src="./img/EvelynKimm.png" height = "30" width="30">
-
+- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)  <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
+- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)  <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
 
 </details>
+
+<details>
+<summary>2월</summary>
+
+## 2.1
+- [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
+- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
+  
+</details>
+
+
