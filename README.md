@@ -8,7 +8,7 @@
   - ex) '2023-12-26 숫자 변환하기'
 
 - 문제출제순서(2일단위 카톡 알림)
-  - 제출 순서: `yht0827 -> Eunleelee -> zuzubibi -> jja6312`
+  - 제출 순서: `yht0827 -> Eunleelee -> zuzubibi -> jja6312 -> itsmesunky`
   
 - 문제 출제 / 제출 기한
   - 문제 제출(README.md에 낼것)
