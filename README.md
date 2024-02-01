@@ -8,7 +8,7 @@
   - ex) '2023-12-26 숫자 변환하기'
 
 - 문제출제순서(2일단위 카톡 알림)
-  - 제출 순서: `yht0827 -> Evelyn -> Jimin -> Eunleelee -> HongSP99 -> LEE SUBEEN`
+  - 제출 순서: `yht0827 -> Eunleelee -> zuzubibi -> jja6312`
   
 - 문제 출제 / 제출 기한
   - 문제 제출(README.md에 낼것)
@@ -23,12 +23,6 @@
   - 말일 전, 중도 하차는 보내드릴 수 없습니다.
 
 ### 패스권 사용
-- HongSP99(01.04, 01.10)
-- yht0827(01.05, 01.19)
-- Eunleelee(01.10, 01.20)
-- g2Min(01.13, 01.24)
-- EvelynKimm(01.18, 01.25)
-- zuzubibi(01.20, 01.29)
 
 ## 문제
 <details>
