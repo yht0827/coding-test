@@ -32,7 +32,7 @@
 
 ## 문제
 <details>
-<summary>프로그래머스 문제</summary>
+<summary>1월</summary>
   
 ## 12.28
 - [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/EvelynKimm.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"> <img src="./img/HongSp99.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30">
@@ -177,5 +177,15 @@
 - [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)  <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
 - [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)  <img src="./img/EvelynKimm.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/g2Min.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> 
 
-
 </details>
+
+<details>
+<summary>2월</summary>
+
+## 2.1
+- [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
+- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
+  
+</details>
+
+
