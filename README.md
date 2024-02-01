@@ -177,9 +177,9 @@
 <summary>2월</summary>
 
 ## 2.1
-- [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)<img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30">
+- [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)<img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
-- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)<img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30">
+- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)<img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 </details>
 
