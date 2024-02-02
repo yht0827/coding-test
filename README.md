@@ -8,7 +8,7 @@
   - ex) '2023-12-26 숫자 변환하기'
 
 - 문제출제순서(2일단위 카톡 알림)
-  - 제출 순서: `yht0827 -> Eunleelee -> zuzubibi -> jja6312 -> itsmesunky`
+  - 제출 순서: `yht0827 -> Eunleelee -> zuzubibi -> jja6312 -> itsmesunky -> jeong-hyuk -> wooseongshin`
   
 - 문제 출제 / 제출 기한
   - 문제 제출(README.md에 낼것)
@@ -23,6 +23,7 @@
   - 말일 전, 중도 하차는 보내드릴 수 없습니다.
 
 ### 패스권 사용
+- jja6312 (02.01)
 
 ## 문제
 <details>
@@ -177,9 +178,20 @@
 <summary>2월</summary>
 
 ## 2.1
-- [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
-- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
-  
+- [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)<img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/wooseongshin.png" height = "30" width="30">
+- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)<img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/wooseongshin.png" height = "30" width="30">
+
+## 2.2
+- [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)<img src="./img/zuzubibi.png" height = "30" width="30"> 
+- [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)<img src="./img/zuzubibi.png" height = "30" width="30"> 
+
+## 2.3
+- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+- [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
+
+  ## 2.4
+- [교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
+- [쿼드 압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
 </details>
 
 
