@@ -222,10 +222,10 @@
 
 ## 2.3
 
-- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
-- [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
+- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)<img src="./img/wooseongshin.png" height = "30" width="30">
+- [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)<img src="./img/wooseongshin.png" height = "30" width="30">
 
-  ## 2.4
+## 2.4
 
 - [교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
 - [쿼드 압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
