@@ -222,8 +222,8 @@
 
 ## 2.3
 
-- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
-- [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 2.4
 
