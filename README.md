@@ -227,8 +227,8 @@
 
 ## 2.4
 
-- [교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) <img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [쿼드 압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) <img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) <img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30">
+- [쿼드 압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) <img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 2.5
 
