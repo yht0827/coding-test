@@ -228,13 +228,16 @@
 ## 2.4
 
 - [교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
+  <img src="./img/jja6312.png" height = "30" width="30">
 - [쿼드 압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
 
 ## 2.5
+
 - [최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 - [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 
 ## 2.6
+
 - [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 </details>
