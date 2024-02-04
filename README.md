@@ -235,6 +235,7 @@
 ## 2.5
 
 - [최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+  <img src="./img/jja6312.png" height = "30" width="30">
 - [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 
 ## 2.6
