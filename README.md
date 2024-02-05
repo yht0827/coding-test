@@ -232,8 +232,8 @@
 
 ## 2.5
 
-- [최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) <img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) <img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) <img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
+- [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) <img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
 
 ## 2.6
 
