@@ -244,9 +244,11 @@
 
 ## 2.7
 
-- [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) -[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+- [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+- [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
 
 ## 2.8
 
-- [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) -[하노이의탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
+- [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+- [하노이의탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
 </details>
