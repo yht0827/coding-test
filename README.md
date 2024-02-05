@@ -227,7 +227,7 @@
 
 ## 2.4
 
-- [교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) <img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30">  <img src="./img/jeong-hyuk.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
+- [교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) <img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
 - [쿼드 압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) <img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
 
 ## 2.5
@@ -235,9 +235,18 @@
 - [최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
   <img src="./img/jja6312.png" height = "30" width="30">
 - [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+  <img src="./img/jja6312.png" height = "30" width="30">
 
 ## 2.6
 
 - [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 </details>
+
+## 2.7
+
+-[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) -[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+
+## 2.8
+
+-[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) -[하노이의탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
