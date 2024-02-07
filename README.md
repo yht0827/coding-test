@@ -242,8 +242,8 @@
 
 ## 2.7
 
-- [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)<img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
-- [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)<img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)<img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)<img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 2.8
 
