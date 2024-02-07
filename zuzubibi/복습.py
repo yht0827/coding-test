@@ -1,42 +1,22 @@
-
-from math import ceil
-
-def to_minutes(time):
-    h, m = map(int, time.split(':'))
-    return h*60 + m
-    
-
-def otherSolution(fees, records):
-    recs = {}
-    fee = {}
-    
-    for record in records:
-        time, num, io = record.split()
-        
-        if num in recs:
-            recs[num].append([time, io])
+def solution(storage, num):
+    clean_storage = []
+    clean_num = []
+    for i in range(len(storage)):
+        if storage[i] in clean_storage:
+            pos = clean_storage.index(storage[i])
+            clean_num[pos] += num[i]
+            print(pos, clean_num)
         else:
-            recs[num] = [[time, io]]
+            clean_storage.append(storage[i])
+            clean_num.append(num[i])
+        print(clean_storage, clean_num)
+    # 아래 코드에는 틀린 부분이 없습니다.
             
-    for rec in recs:
-        total = 0
-        payment = fees[1]
-        
-        if len(recs[rec]) % 2 != 0:
-            recs[rec].append(["23:59", "OUT"])
-        
-        for r in recs[rec]:
-            if r[1] == "IN":
-                total -= to_minutes(r[0])
-            else:
-                total += to_minutes(r[0])
-                
-        if total > fees[0]:
-            payment += ceil((total - fees[0]) / fees[2]) * fees[3]
-            
-        
-        fee[rec] = payment
-        
-    fee = sorted(fee.items())
-    
-    return [f for n, f in fee]
+    max_num = max(clean_num)
+    answer = clean_storage[clean_num.index(max_num)]
+    return answer
+
+# "pencil"
+print(solution(["pencil", "pencil", "pencil", "book"], [2, 4, 3, 1]))
+# "leaf"
+print(solution(["apple", "steel", "leaf", "apple", "leaf"], [5, 3, 5, 3, 7]))
