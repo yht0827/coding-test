@@ -247,6 +247,6 @@
 
 ## 2.8
 
-- [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
-- [하노이의탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
+- [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)<img src="./img/jja6312.png" height = "30" width="30">
+- [하노이의탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)<img src="./img/jja6312.png" height = "30" width="30">
 </details>
