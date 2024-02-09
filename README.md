@@ -252,6 +252,6 @@
 
 ## 2.9
 
-- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
-- [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)<img src="./img/wooseongshin.png" height = "30" width="30">
+- [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)<img src="./img/wooseongshin.png" height = "30" width="30">
 </details>
