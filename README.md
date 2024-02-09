@@ -252,8 +252,8 @@
 
 ## 2.9
 
-- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
-- [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
+- [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
 
 ## 2.10
 
