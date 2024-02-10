@@ -270,4 +270,15 @@
 
 - [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
 - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+
+## 2.13
+
+- [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+- [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)
+
+## 2.14
+
+- [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
+- [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+
 </details>
