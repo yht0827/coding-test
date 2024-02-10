@@ -24,6 +24,9 @@
 ### 패스권 사용
 
 - jja6312 (02.01)
+- yht0827 (02.09)
+- zuzubibi (02. 09)
+- jeong-hyuk (02. 10)
 
 ## 문제
 
@@ -252,11 +255,32 @@
 
 ## 2.9
 
-- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30">
-- [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30">
+- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
+- [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)<img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
 
 ## 2.10
 
-- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
-- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
+- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+
+## 2.11
+
+- [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+- [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+
+## 2.12
+
+- [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
+- [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+
+## 2.13
+
+- [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+- [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)
+
+## 2.14
+
+- [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
+- [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+
 </details>
