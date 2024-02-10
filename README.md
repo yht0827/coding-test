@@ -260,4 +260,14 @@
 
 - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
+
+## 2.11
+
+- [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+- [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+
+## 2.12
+
+- [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
+- [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 </details>
