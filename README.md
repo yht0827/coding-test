@@ -260,8 +260,8 @@
 
 ## 2.10
 
-- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 2.11
 
