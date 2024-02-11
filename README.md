@@ -265,8 +265,8 @@
 
 ## 2.11
 
-- [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)<img src="./img/wooseongshin.png" height = "30" width="30">
-- [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)<img src="./img/wooseongshin.png" height = "30" width="30">
+- [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)<img src="./img/wooseongshin.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)<img src="./img/wooseongshin.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 2.12
 
