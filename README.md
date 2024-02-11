@@ -298,7 +298,7 @@
 - [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
 - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 
-# 2.18
+## 2.18
 - [해싱](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - [n개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 </details>
