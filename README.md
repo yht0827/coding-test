@@ -260,13 +260,13 @@
 
 ## 2.10
 
-- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 2.11
 
-- [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
-- [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+- [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)<img src="./img/wooseongshin.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
+- [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)<img src="./img/wooseongshin.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
 
 ## 2.12
 
@@ -282,5 +282,15 @@
 
 - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
 - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+
+## 2.15
+
+- [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
+- [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
+
+## 2.16
+
+- [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
+- [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
 
 </details>
