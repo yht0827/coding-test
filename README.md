@@ -283,4 +283,14 @@
 - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
 - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
 
+## 2.15
+
+- [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
+- [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
+
+## 2.16
+
+- [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
+- [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
+
 </details>
