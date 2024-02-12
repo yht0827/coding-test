@@ -270,8 +270,8 @@
 
 ## 2.12
 
-- [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
-- [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+- [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)<img src="./img/jja6312.png" height = "30" width="30">
+- [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)<img src="./img/jja6312.png" height = "30" width="30">
 
 ## 2.13
 
