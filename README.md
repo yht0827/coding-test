@@ -293,12 +293,23 @@
 - [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
 - [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
 
-
 ## 2.17
+
 - [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
 - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 
 ## 2.18
+
 - [해싱](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - [n개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+
+## 2.19
+
+- [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+- [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+
+## 2.20
+
+- [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+- [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
 </details>
