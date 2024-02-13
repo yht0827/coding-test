@@ -276,8 +276,8 @@
 
 ## 2.13
 
-- [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
-- [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)
+- [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)<img src="./img/jja6312.png" height = "30" width="30">
+- [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)<img src="./img/jja6312.png" height = "30" width="30">
 
 ## 2.14
 
