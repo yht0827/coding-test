@@ -26,7 +26,8 @@
 - jja6312 (02.01, 02.11)
 - yht0827 (02.09)
 - zuzubibi (02. 09)
-- jeong-hyuk (02. 10)
+- jeong-hyuk (02. 10, 02.12)
+- wooseongshin (02.12)
 
 ## 문제
 
@@ -270,13 +271,13 @@
 
 ## 2.12
 
-- [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 2.13
 
-- [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
-- [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)
+- [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 2.14
 
