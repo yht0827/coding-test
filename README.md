@@ -25,9 +25,10 @@
 
 - jja6312 (02.01, 02.11)
 - yht0827 (02.09)
-- zuzubibi (02. 09)
-- jeong-hyuk (02. 10, 02.12)
+- zuzubibi (02.09)
+- jeong-hyuk (02.10, 02.12)
 - wooseongshin (02.12)
+- Eunleelee (02.14)
 
 ## 문제
 
