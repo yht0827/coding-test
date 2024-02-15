@@ -287,8 +287,8 @@
 
 ## 2.15
 
-- [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
+- [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
 
 ## 2.16
 
