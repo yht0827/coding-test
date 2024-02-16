@@ -292,8 +292,8 @@
 
 ## 2.16
 
-- [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
-- [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
+- [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)<img src="./img/jja6312.png" height = "30" width="30">
+- [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)<img src="./img/jja6312.png" height = "30" width="30">
 
 ## 2.17
 
