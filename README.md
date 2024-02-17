@@ -297,8 +297,8 @@
 
 ## 2.17
 
-- [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 2.18
 
