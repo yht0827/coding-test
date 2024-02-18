@@ -24,10 +24,10 @@
 ### 패스권 사용
 
 - jja6312 (02.01, 02.11)
-- yht0827 (02.09)
+- yht0827 (02.09, 02.16)
 - zuzubibi (02.09, 02.15)
 - jeong-hyuk (02.10, 02.12)
-- wooseongshin (02.12)
+- wooseongshin (02.12, 02.16)
 - Eunleelee (02.14)
 
 ## 문제
@@ -297,8 +297,8 @@
 
 ## 2.17
 
-- [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)<img src="./img/jja6312.png" height = "30" width="30">
-- [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)<img src="./img/jja6312.png" height = "30" width="30">
+- [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 2.18
 
