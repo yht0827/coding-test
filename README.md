@@ -302,8 +302,8 @@
 
 ## 2.18
 
-- [해싱](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
-- [n개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+- [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+- [n개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 
 ## 2.19
 
