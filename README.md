@@ -302,8 +302,8 @@
 
 ## 2.18
 
-- [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
-- [n개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
+- [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) <img src="./img/yht0827.png" height = "30" width="30">
+- [n개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 2.19
 
