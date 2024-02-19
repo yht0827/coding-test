@@ -307,11 +307,21 @@
 
 ## 2.19
 
-- [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
-- [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
+- [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
+- [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
 
 ## 2.20
 
 - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+
+## 2.21
+
+- [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+- [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+
+## 2.22
+
+- [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
+- [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
 </details>
