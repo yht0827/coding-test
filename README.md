@@ -307,8 +307,8 @@
 
 ## 2.19
 
-- [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"
-- [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"
+- [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 2.20
 
