@@ -324,4 +324,15 @@
 
 - [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
 - [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
+
+## 2.23
+
+- [K진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+- [2개이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)
+
+## 2.24
+
+- [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
+- [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+
 </details>
