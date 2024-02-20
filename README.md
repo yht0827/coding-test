@@ -312,8 +312,8 @@
 
 ## 2.20
 
-- [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)<img src="./img/jja6312.png" height = "30" width="30">
-- [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)<img src="./img/jja6312.png" height = "30" width="30">
+- [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)<img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 2.21
 
