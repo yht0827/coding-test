@@ -317,8 +317,8 @@
 
 ## 2.21
 
-- [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
-- [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 2.22
 
