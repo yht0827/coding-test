@@ -322,8 +322,8 @@
 
 ## 2.22
 
-- [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)<img src="./img/zuzubibi.png" height = "30" width="30">
-- [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)<img src="./img/zuzubibi.png" height = "30" width="30">
+- [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 2.23
 
