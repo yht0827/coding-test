@@ -327,8 +327,8 @@
 ## 2.23
 
 
-- [K진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [2개이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [K진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
+- [2개이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/Eunleelee.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
 
 ## 2.24
 
