@@ -332,8 +332,8 @@
 
 ## 2.24
 
-- [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
-- [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+- [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) <img src="./img/yht0827.png" height = "30" width="30">
+- [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 2.25
 
