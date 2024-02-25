@@ -337,12 +337,23 @@
 
 ## 2.25
 
-- [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
-- [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
+- [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/Eunleelee.png" height = "30" width="30">
 
 ## 2.26
 
 - [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 - [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
+  
+## 2.26
+
+- [숫자카드](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
+- [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)
+
+## 2.26
+
+- [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
+- [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+
 
 </details>
