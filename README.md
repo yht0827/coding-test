@@ -345,12 +345,12 @@
 - [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 - [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
   
-## 2.26
+## 2.27
 
 - [숫자카드](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
 - [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)
 
-## 2.26
+## 2.28
 
 - [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
 - [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
