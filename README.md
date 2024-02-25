@@ -28,7 +28,7 @@
 - zuzubibi (02.09, 02.15)
 - jeong-hyuk (02.10, 02.12)
 - wooseongshin (02.12, 02.16)
-- Eunleelee (02.14)
+- Eunleelee (02.14, 02.24)
 
 ## 문제
 
