@@ -337,8 +337,8 @@
 
 ## 2.25
 
-- [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/jeong-hyuk.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 2.26
 
