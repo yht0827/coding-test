@@ -332,8 +332,13 @@
 
 ## 2.24
 
+<<<<<<< HEAD
 - [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30">
 - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30">
+=======
+- [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
+- [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"> <img src="./img/jeong-hyuk.png" height = "30" width="30">
+>>>>>>> b497186 (Update README.md)
 
 ## 2.25
 
