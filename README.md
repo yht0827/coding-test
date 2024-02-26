@@ -342,8 +342,8 @@
 
 ## 2.26
 
-- [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)<img src="./img/jja6312.png" height = "30" width="30">
-- [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)<img src="./img/jja6312.png" height = "30" width="30">
+- [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)<img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 2.27
 

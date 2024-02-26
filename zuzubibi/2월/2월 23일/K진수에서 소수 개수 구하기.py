@@ -5,13 +5,14 @@ def change(n,q):
         n,mode = divmod(n,q)
         rev_base += str(mode)
     return rev_base[::-1]
-import math
+
 def isprime(n):
     if n <= 1: return False
     i = 2
     while i*i <=n:
         if n%i == 0: return False
         i += 1
+
     return True
 
 def solution(n,k):
@@ -24,4 +25,4 @@ def solution(n,k):
 
 
 print(solution(437674, 3)) # 3
-print(solution(110011, 10)) # 2
+# print(solution(110011, 10)) # 2
