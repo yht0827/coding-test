@@ -347,8 +347,8 @@
 
 ## 2.27
 
-- [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)<img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
-- [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)<img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30">
+- [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)<img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
+- [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)<img src="./img/Eunleelee.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"> <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30">
 
 ## 2.28
 
@@ -358,4 +358,5 @@
 ## 2.29
 
 - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+- [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
 </details>
