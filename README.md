@@ -352,8 +352,8 @@
 
 ## 2.28
 
-- [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
-- [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30">
+- [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jeong-hyuk.png" height = "30" width="30">
+- [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) <img src="./img/yht0827.png" height = "30" width="30"><img src="./img/jja6312.png" height = "30" width="30"><img src="./img/zuzubibi.png" height = "30" width="30"><img src="./img/wooseongshin.png" height = "30" width="30"><img src="./img/jeong-hyuk.png" height = "30" width="30">
 
 ## 2.29
 
