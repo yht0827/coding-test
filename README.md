@@ -352,11 +352,11 @@
 
 ## 2.28
 
-- [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
-- [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+- [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) <img src="./img/yht0827.png" height = "30" width="30">
+- [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) <img src="./img/yht0827.png" height = "30" width="30">
 
 ## 2.29
 
-- [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
-- [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+- [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) <img src="./img/yht0827.png" height = "30" width="30">
+- [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) <img src="./img/yht0827.png" height = "30" width="30">
 </details>
